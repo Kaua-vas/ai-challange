@@ -1,0 +1,43 @@
+{
+  "total_complaints": 7531,
+  "date_range": {
+    "start": "2010-10-29 00:00:00",
+    "end": "2025-10-23 00:00:00"
+  },
+  "complaints_by_year": {
+    "2010": 3,
+    "2011": 31,
+    "2012": 77,
+    "2013": 228,
+    "2014": 622,
+    "2015": 792,
+    "2016": 727,
+    "2017": 447,
+    "2018": 433,
+    "2019": 1269,
+    "2020": 502,
+    "2021": 350,
+    "2022": 587,
+    "2023": 634,
+    "2024": 480,
+    "2025": 349
+  },
+  "monthly_average": 42.30898876404494,
+  "spike_threshold": 126.17948425540109,
+  "spikes_detected": {
+    "2019-07": 502,
+    "2019-08": 156
+  },
+  "keyword_analysis": {
+    "shudder": 2507,
+    "hesitation": 1539,
+    "slipping": 1091,
+    "jerking": 1879,
+    "clutch": 4968,
+    "acceleration": 4273,
+    "engagement": 434,
+    "shift": 3478
+  },
+  "first_alert_date": "2019-07",
+  "months_earlier_than_recall": -66
+}

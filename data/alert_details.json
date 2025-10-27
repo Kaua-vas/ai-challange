@@ -1,0 +1,48 @@
+{
+  "analysis_date": "2025-10-27",
+  "alerts_analyzed": 2,
+  "alert_details": [
+    {
+      "model": "EXPLORER",
+      "alert_level": "MEDIUM",
+      "complaints_6m": 1254,
+      "growth": 42.84841075794621,
+      "top_categories": {
+        "fuel": 613,
+        "steering": 420,
+        "engine": 378,
+        "technology": 321,
+        "transmission": 250
+      },
+      "top_symptoms": {
+        "failure": 1827,
+        "warning light": 217,
+        "noise": 129,
+        "leak": 85,
+        "fire": 76
+      },
+      "action_recommended": "MEDIUM PRIORITY: Engineering: Review fuel system. Check for supplier quality issues. Monitor weekly."
+    },
+    {
+      "model": "BRONCO",
+      "alert_level": "HIGH",
+      "complaints_6m": 109,
+      "growth": 66.66666666666666,
+      "top_categories": {
+        "fuel": 57,
+        "suspension": 42,
+        "brake": 39,
+        "engine": 37,
+        "exterior": 28
+      },
+      "top_symptoms": {
+        "failure": 138,
+        "noise": 21,
+        "leak": 20,
+        "stalling": 16,
+        "warning light": 15
+      },
+      "action_recommended": "HIGH PRIORITY: Engineering: Review fuel system. Check for supplier quality issues. Assign dedicated team. Weekly executive updates."
+    }
+  ]
+}

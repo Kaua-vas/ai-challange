@@ -1,0 +1,199 @@
+{
+  "analysis_date": "2025-10-27",
+  "total_models_analyzed": 9,
+  "total_clusters_found": 9,
+  "method": "Autonomous AI - No manual filtering",
+  "top_problems": [
+    {
+      "model": "FIESTA",
+      "cluster_id": 0,
+      "size": 150,
+      "top_keywords": [
+        "transmission",
+        "engine",
+        "accelerat"
+      ],
+      "growth_rate": 113.33333333333333,
+      "crashes": 0,
+      "injuries": 20,
+      "months_active": 35.93333333333333,
+      "sample_complaints": [
+        "The contact owns a 2011 Ford Fiesta. The contact stated that while driving at various speeds, the vehicle stalled. There was no warning light illuminated. The vehicle was pushed to the side of the road on several occasions. The vehicle was able to restart after 10 minutes; however, the failure recurred upon resuming driving. The vehicle was taken to an independent mechanic, where it was diagnosed. The mechanic related the failure to Ford Campaign Number: 15B22 (Transmission Control Module Reprogramming for Overt TCM Failure Warning). The dealer was contacted, and an appointment was scheduled for the vehicle to be repaired under Ford Campaign Number: 15B22. The contact stated that upon towing the vehicle to the dealer, the dealer refused to service the vehicle. The vehicle was not diagnosed or repaired. The manufacturer was contacted but no assistance was provided. The failure mileage was approximately 106,902.",
+        "The contact owns a 2011 Ford Fiesta. The contact stated that while driving on a main road at 30 MPH, the transmission shifted independently to neutral(N). The contact pulled over and restarted the vehicle. The contact shifted to drive(D) and drove to the residence. The vehicle was towed to the local dealer, where it was diagnosed that the transmission control module had failed and needed to be replaced. The vehicle was not repaired. The manufacturer was notified of the failure. The failure mileage was approximately 130,000.",
+        "The contact owns a 2011 Ford Fiesta. The contact stated while driving at an undisclosed speed, the accelerator pedal was depressed but the vehicle failed to accelerate. The check engine warning light was illuminated. The vehicle was taken to the dealer, where the failure was not duplicated. Additionally, the contact received notification of Customer Satisfaction Program 14M02; however, the dealer informed the contact that there was no indication of transmission failure. The vehicle was not diagnosed or repaired. The contact stated that the failure failure recurred. The manufacturer was made aware of the failure and a case was filed. The contact was informed that the repair could not be covered under an unknown special program or recall. The contact was advised to contact the NHTSA Hotline to report the safety failure. The failure mileage was approximately 144,000."
+      ],
+      "date_range": "2022-11-02 to 2025-10-15",
+      "recall_probability": 74.0,
+      "risk_level": "CRITICAL"
+    },
+    {
+      "model": "EDGE",
+      "cluster_id": 0,
+      "size": 376,
+      "top_keywords": [
+        "engine",
+        "brake"
+      ],
+      "growth_rate": 108.79120879120879,
+      "crashes": 0,
+      "injuries": 11,
+      "months_active": 9.1,
+      "sample_complaints": [
+        "The contact owns a 2013 Ford Edge. The contact stated while attempting to start the vehicle, the rearview camera displayed a blank screen and was glitching. A dealer was contacted. The vehicle taken to the dealer where it was diagnosed and determined that the rearview camera needed to be replaced. The vehicle was not repaired. The contact related the failure to NHTSA Campaign Number: 25V572000 (BACK OVER PREVENTION); however, the VIN was not included in the recall. The manufacturer was notified of the failure and informed the contact that the VIN was not included in the recall. The failure mileage was 108,000.",
+        "The contact owns a 2016 Ford Edge. The contact had received notification of NHTSA Campaign Number: 24V031000 (Structure). However, the part to do the recall repair was not yet available. The contact stated that when the vehicle was purchased, the windshield was cracked. The contact bought the vehicle and, after a while, contacted Safelite to replace the windshield. The Safelite employee removed the interior and exterior brackets on the windshield and placed a black tarp on the top part of the windshield. Most recently, the contact stated that after a rainstorm, water leaked inside the vehicle from the A-pillar. The vehicle was not repaired after the most recent failure. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not made aware of the issue. The failure mileage was approximately 162,000.",
+        "The contact owns a 2015 Ford Edge. The contact received notifications of NHTSA Campaign Numbers: 25V544000 (Service Brakes, Hydraulic) and 25V572000 (Back Over Prevention). The contact attempted to schedule the recall repair appointments with the dealer and was informed that parts were not yet available. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not made aware of the issue. The contact had not experienced a failure."
+      ],
+      "date_range": "2025-01-23 to 2025-10-23",
+      "recall_probability": 64.0,
+      "risk_level": "HIGH"
+    },
+    {
+      "model": "MUSTANG",
+      "cluster_id": 0,
+      "size": 259,
+      "top_keywords": [
+        "engine",
+        "camera"
+      ],
+      "growth_rate": 24.39024390243903,
+      "crashes": 0,
+      "injuries": 8,
+      "months_active": 36.233333333333334,
+      "sample_complaints": [
+        "The contact owns a 2011 Ford Mustang. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The contact stated that the transmission, on occasion, did not shift into second and third gear. No warning lights were illuminated. The vehicle was taken to the dealer, where it was diagnosed with a failed clutch pad. The contact was informed that the clutch pad needed to be replaced. The vehicle was not repaired. The manufacturer was not made aware of the failure and did not assist. The contact was informed to contact the NHTSA Hotline to report the failure. The failure mileage was approximately 48,000.",
+        "The contact owns a 2011 Ford Mustang. The contact stated that while at a stop light, the front driver\u2019s side seat air bag deployed upon depression of the accelerator pedal. The contact stated that the air bag warning light illuminated after the failure. The vehicle was not diagnosed or repaired. The manufacturer had was not notified of the failure. The failure mileage was approximately 123,000.",
+        "The contact owns a 2011 Ford Mustang. The contact stated while driving at various speeds and depressing the brake pedal, the vehicle failed to respond. The message \"Service Auto Advancetrac\" was displayed. The contact stated that she continued to depress the brake pedal until the vehicle responded. The contact stated that there was a significant stopping distance delay. The contact stated that the failure had been recurring more frequently while driving, and the vehicle was sliding while stopping, nearly causing a crash. The vehicle was taken to an unknown dealer however, the cause of the failure could not be determined. The vehicle was not diagnosed or repaired. The manufacturer was not notified of the failure. The failure mileage was unknown."
+      ],
+      "date_range": "2022-11-01 to 2025-10-23",
+      "recall_probability": 52.0,
+      "risk_level": "HIGH"
+    },
+    {
+      "model": "FUSION",
+      "cluster_id": 0,
+      "size": 422,
+      "top_keywords": [
+        "engine",
+        "steering"
+      ],
+      "growth_rate": -12.499999999999996,
+      "crashes": 0,
+      "injuries": 2,
+      "months_active": 12.6,
+      "sample_complaints": [
+        "The contact owns a 2013 Ford Fusion. The contact stated that the back-over prevention camera image was blank. While reversing, the camera suddenly became inoperable. There was no alert or beeping to warn the driver of an approaching pedestrian when the camera became inoperable. There was no warning light illuminated. The contact stated that the failure was related to NHTSA Campaign Number:  25V695000 (Back Over Prevention). The contact called the local dealer and was informed about a diagnostic test. The vehicle was not diagnosed or repaired. The manufacturer was contacted. The failure mileage was approximately 110,000.",
+        "The contact owns a 2015 Ford Fusion. The contact stated that while reversing, the camera image was flipped and backwards, and occasionally the screen was blank. There were no warning lights illuminated. The contact stated that the failure was related to NHTSA Campaign Number: 25V442000 (Back Over Prevention). The local dealer was contacted and confirmed that the VIN was not included in the recall. The contact was informed about a diagnostic test to determine the cause of the failure. The vehicle was not repaired. The manufacturer was contacted and confirmed there was no recall on the VIN related to the failure. The failure mileage was approximately 44,000.",
+        "The contact owns a 2011 Ford Fusion. While the contact's daughter was driving at an undisclosed speed, the steering wheel failed to turn in the intended direction. The contact stated that the power steering warning light was illuminated. The vehicle was driven to the residence. The vehicle was not diagnosed or repaired by an independent mechanic or dealer. The dealer was made aware of the failure; however, the contact was informed that the repair was not covered under warranty and was above the 150,000-mileage limit. The contact referenced an unknown recall which had a similar failure description; however, the VIN was not associated. The contact stated that, fortunately, the vehicle was not being driven on the highway during the failure. The manufacturer was not made aware of the failure. The failure mileage was approximately 240,000."
+      ],
+      "date_range": "2024-10-10 to 2025-10-23",
+      "recall_probability": 46.0,
+      "risk_level": "MEDIUM"
+    },
+    {
+      "model": "FOCUS",
+      "cluster_id": 0,
+      "size": 546,
+      "top_keywords": [
+        "engine",
+        "transmission",
+        "clutch"
+      ],
+      "growth_rate": -38.50000000000001,
+      "crashes": 0,
+      "injuries": 1,
+      "months_active": 16.933333333333334,
+      "sample_complaints": [
+        "The contact owns a 2018 Ford Focus. The contact stated that while driving approximately 15 MPH, the check engine warning light illuminated, and the vehicle felt as if the transmission had slipped into neutral(N). The contact was not able to get the vehicle back into gear, and the vehicle lost forward momentum. The contact was in the parking lot of the residence and stopped and called a tow truck. The vehicle was towed to a local dealer, where it was diagnosed and determined that the clutch needed to be replaced. The vehicle was repaired. The contact stated that it was the fifth time that the clutch had been replaced. The contact stated that the clutch was most recently replaced in May 2024. The contact called the manufacturer and was referred to the NHTSA Hotline to report the failure. The failure mileage was approximately 43,000.",
+        "The contact owns a 2018 Ford Focus. The contact stated that while driving at various speeds, the vehicle was jerking and hesitating while depressing the accelerator pedal. The vehicle was taken to the dealer, where an unknown transmission repair was performed; however, the failure persisted. The local dealer and an unknown dealer were contacted and offered to take the vehicle in a trade-in, but the contact declined. The vehicle was taken to Marcino Enterprises LLC, where it was test-driven, and the failure recurred. The dealer diagnosed that the transmission fluid was contaminated with metal shavings and had become brown. Additionally, the contact stated that the engine overheated. The vehicle was not repaired. The manufacturer was notified of the failure and referred the contact to the NHTSA Hotline for assistance. The failure mileage was approximately 8,899.",
+        "The contact owns a 2016 Ford Focus. The contact stated while driving 40 MPH and depressing the accelerator pedal, the vehicle hesitated. The contact also stated that while attempting to start the vehicle, the vehicle failed to respond as intended. Additionally, while driving at an undisclosed speed and attempting to make a left or right turn, the lost motive power. An independent mechanic was contacted, and the vehicle was taken to the independent mechanic to be diagnosed. The mechanic retrieved DTC: P2872 (Clutch \"A\" Stuck Engaged). The vehicle was not repaired. The contact related the failure to Customer Satisfaction Program: 14N02 (Extended Warranty Coverage for PCM Reprograming in the Event of ABS Vehicle Speed Signal Related Communication Loss that Disables OBDII System Monitors); however, the VIN was not included in the CSP. The manufacturer was notified of the failure, and informed the contact that the VIN was not under warranty or recall. The failure mileage was 108,000."
+      ],
+      "date_range": "2024-05-20 to 2025-10-10",
+      "recall_probability": 40.0,
+      "risk_level": "MEDIUM"
+    },
+    {
+      "model": "BRONCO",
+      "cluster_id": 1,
+      "size": 129,
+      "top_keywords": [
+        "windshield"
+      ],
+      "growth_rate": -70.83333333333333,
+      "crashes": 0,
+      "injuries": 0,
+      "months_active": 26.8,
+      "sample_complaints": [
+        "The wiper will work for about 20 minutes. the slow to a very slow intermittent wipe no matter the rain amount.  Once this has started you can adjust the speed of the wiper and it will work for about 30 seconds the fall back into the slow intermittent wipe. I took it to the dealer, and they said the wipers were working normally, even though I have a video of the issue happening.  There are no indications of a malfunction on the dashboard.",
+        "The wipers are slowing during use. Seems like a intermittent weak motor.",
+        "Windshield wipers are very slow when set to high speed. On the highest setting they are going the same speed as other vehicles low speed setting. During heavier rain visibility is near zero in the Bronco when it wouldn\u2019t be in other vehicles."
+      ],
+      "date_range": "2022-12-10 to 2025-02-21",
+      "recall_probability": 26.0,
+      "risk_level": "LOW"
+    },
+    {
+      "model": "RANGER",
+      "cluster_id": 0,
+      "size": 61,
+      "top_keywords": [
+        "transmission",
+        "engine",
+        "shift"
+      ],
+      "growth_rate": 29.99999999999999,
+      "crashes": 0,
+      "injuries": 1,
+      "months_active": 34.766666666666666,
+      "sample_complaints": [
+        "The contact owns a 2019 Ford Ranger. The contact received notification of NHTSA Campaign Number: 25V442000 (BACK OVER PREVENTION); however, the dealer refused to perform the recall repair. The contact stated that the rearview camera displayed a black screen while the vehicle was in reverse(R). The contact stated that the failure had obstructed the driver's visibility, which prevented the driver from safely operating the vehicle. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not made aware of the issue. The failure mileage was approximately 33,000.",
+        "The contact owns a 2019 Ford Ranger. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. The contact stated that the transmission shuddered abnormally. In addition, while driving approximately 45 MPH, the vehicle drove without issues. No warning light was illuminated. The vehicle was taken to the dealer, and the failure was diagnosed as an internal transmission pump failure. The contact was informed that the transmission pump needed to be replaced. The vehicle was not repaired. In addition, the contact was informed that the manufacturer was aware of the failure; however, the repair was not covered under the recall. The manufacturer was made aware of the failure, and a case was filed. The contact was advised to contact the NHTSA Hotline to report the failure. The failure mileage was approximately 78,000.",
+        "The contact owns a 2019 Ford Ranger. The contact stated that while driving at an undisclosed speed, the accelerator pedal was depressed; however, the vehicle failed to accelerate as intended. There was an abnormal sound coming from the vehicle. The contact stated that the check engine and the service warning lights then became illuminated. The vehicle was driven to a nearby Ford dealer. The vehicle was diagnosed with internal failure of the transmission. The contact was informed that the transmission needed to be replaced. The vehicle was not repaired. The manufacturer was made aware of the failure and a case was filed. The contact referenced an unknown recall with a similar description of the failure; however, the VIN was not associated with the recall. The failure mileage was approximately 73,000."
+      ],
+      "date_range": "2022-11-09 to 2025-09-17",
+      "recall_probability": 26.0,
+      "risk_level": "LOW"
+    },
+    {
+      "model": "ESCAPE",
+      "cluster_id": 0,
+      "size": 329,
+      "top_keywords": [
+        "engine"
+      ],
+      "growth_rate": 0.0,
+      "crashes": 0,
+      "injuries": 1,
+      "months_active": 4.466666666666667,
+      "sample_complaints": [
+        "The contact owns a 2017 Ford Escape. The contact stated while driving approximately 30 MPH,  the vehicle started to shake and vibrate and decelerate. The vehicle was taken to a nearby mechanic who diagnosed that the alternator and alternator belt had failed and needed to be replaced. The alternator and alternator belt were replaced, and the vehicle was repaired. The contact stated that while driving at an undisclosed speed, the transmission warning light illuminated, and the vehicle decelerated, and the steering wheel was difficult to control. After stopping the vehicle and shifting to park(P), the vehicle rolled backwards causing the driver to activate the parking brake. The vehicle was towed to the local mechanic who diagnosed that the transmission needed to be replaced. The transmission was not yet repaired. The manufacturer and local dealer were not contacted regarding the failures. The failure mileage was 107,000.",
+        "The contact owns a 2020 Ford Escape. The contact stated that while driving approximately 25 MPH, the check engine warning light illuminated. The contact drove the vehicle to the intended destination and parked the vehicle, but was concerned about restarting the vehicle. The contact received notification of NHTSA Campaign Number: 25V467000 (Fuel System, Gasoline); and the contact related the failure to the recall. The contact had not taken the vehicle to a local dealer or to an independent mechanic. The vehicle was not diagnosed or repaired. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not informed of the failure. The failure mileage was 52,741.",
+        "The contact owns a 2020 Ford Escape. The contact received notification of NHTSA Campaign Number: 25V467000 (FUEL SYSTEM, GASOLINE); however, the part to do the recall repair was not yet available. The local dealer was not contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not made aware of the issue. The contact had not experienced a failure."
+      ],
+      "date_range": "2025-06-11 to 2025-10-23",
+      "recall_probability": 12.0,
+      "risk_level": "LOW"
+    },
+    {
+      "model": "ESCAPE",
+      "cluster_id": 1,
+      "size": 16,
+      "top_keywords": [
+        "engine",
+        "leak",
+        "crack"
+      ],
+      "growth_rate": 0.0,
+      "crashes": 0,
+      "injuries": 0,
+      "months_active": 4.4,
+      "sample_complaints": [
+        "Head gasket blew and coolant leaked into engine.  This applies to the Ford Escape 2013 - 2019.  Ford's 1.5L, 1.6L, or 2.0L Ecoboost engines manufactured, marketed, and distributed by Ford Motor Company.  They know about the problem but refuse to fix the problem.  There is currently a class action lawsuit.  But we all know that does noting.",
+        "I purchased a used 2017 Ford Escape SE with EcoBoost engine (2.0L) at 58,000 miles in April of 2024. In September 2024, the check engine light came on, followed shortly thereafter by overheating of the engine. This overheating would cause the engine to go into limp mode on the highway, which happened multiple times. When inspecting the coolant tank, it was discovered that coolant was leaking out, and the tank did not retain new coolant poured in.  The issue was determined by both the Ford dealership and a third-party mechanic to be coolant intrusion, requiring replacement of the engine long block. Upon researching the issue, discovered that Ford's customer service program 21N12 covers replacement for engines of this year and model, but was informed by Ford that recall/replacement was not covered as the engine on my vehicle was not 1.5L. Clearly, whether the engine is 1.5L, 1.6L, or 2.0L, the issue exists. The $8,300 fix has created a serious financial burden, as I had to pay out-of-pocket to fix Ford's known mistake.   There is currently a class-action lawsuit against Ford for this issue: [XXX] , et al. v. Ford Motor Co ([XXX]). In the class-action, it is reported that buyers' engines have burst into flames due to this issue. In my case, the vehicle went into limp mode on the freeway, and could easily have caused a serious wreck - I am thankful that I was able to get the vehicle off of the road and into the shop before there was a wreck. These vehicles are active liabilities on the roads, and should be recalled as soon as possible. INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+        "I have a 1.5L ecoboost engine in my 2017 Ford escape.  Known now for it's design flaw allowing coolant to enter the engine and cause catastrophic damage.  This has happened to my vehicle and it is not covered under any recall."
+      ],
+      "date_range": "2025-06-11 to 2025-10-21",
+      "recall_probability": 0.0,
+      "risk_level": "LOW"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "analysis_date": "2025-10-27",
+  "period_analyzed": "24 months",
+  "total_complaints": 16343,
+  "active_alerts": 1,
+  "model_analysis": [
+    {
+      "model": "ESCAPE",
+      "total_complaints": 5103,
+      "first_year": 2617,
+      "second_year": 2486,
+      "growth_pct": -5.005731753916699,
+      "crashes": 0,
+      "injuries": 46,
+      "severity_score": 2716,
+      "alert_level": "LOW"
+    },
+    {
+      "model": "EXPLORER",
+      "total_complaints": 3973,
+      "first_year": 1636,
+      "second_year": 2337,
+      "growth_pct": 42.84841075794621,
+      "crashes": 0,
+      "injuries": 55,
+      "severity_score": 2612,
+      "alert_level": "MEDIUM"
+    },
+    {
+      "model": "EDGE",
+      "total_complaints": 2378,
+      "first_year": 1131,
+      "second_year": 1247,
+      "growth_pct": 10.256410256410255,
+      "crashes": 0,
+      "injuries": 31,
+      "severity_score": 1402,
+      "alert_level": "LOW"
+    },
+    {
+      "model": "FUSION",
+      "total_complaints": 2158,
+      "first_year": 1206,
+      "second_year": 952,
+      "growth_pct": -21.06135986733002,
+      "crashes": 0,
+      "injuries": 22,
+      "severity_score": 1062,
+      "alert_level": "LOW"
+    },
+    {
+      "model": "FOCUS",
+      "total_complaints": 1553,
+      "first_year": 925,
+      "second_year": 628,
+      "growth_pct": -32.108108108108105,
+      "crashes": 0,
+      "injuries": 13,
+      "severity_score": 693,
+      "alert_level": "LOW"
+    },
+    {
+      "model": "MUSTANG",
+      "total_complaints": 492,
+      "first_year": 222,
+      "second_year": 270,
+      "growth_pct": 21.62162162162162,
+      "crashes": 0,
+      "injuries": 13,
+      "severity_score": 335,
+      "alert_level": "LOW"
+    },
+    {
+      "model": "BRONCO",
+      "total_complaints": 312,
+      "first_year": 117,
+      "second_year": 195,
+      "growth_pct": 66.66666666666666,
+      "crashes": 0,
+      "injuries": 7,
+      "severity_score": 230,
+      "alert_level": "HIGH"
+    },
+    {
+      "model": "FIESTA",
+      "total_complaints": 219,
+      "first_year": 111,
+      "second_year": 108,
+      "growth_pct": -2.7027027027027026,
+      "crashes": 0,
+      "injuries": 6,
+      "severity_score": 138,
+      "alert_level": "LOW"
+    },
+    {
+      "model": "RANGER",
+      "total_complaints": 155,
+      "first_year": 75,
+      "second_year": 80,
+      "growth_pct": 6.666666666666667,
+      "crashes": 0,
+      "injuries": 0,
+      "severity_score": 80,
+      "alert_level": "LOW"
+    }
+  ],
+  "alerts": [
+    {
+      "model": "EXPLORER",
+      "alert_level": "MEDIUM",
+      "complaints_l3m": 544,
+      "growth": 42.84841075794621,
+      "top_component": "Unknown",
+      "action": "Monitor closely"
+    },
+    {
+      "model": "BRONCO",
+      "alert_level": "HIGH",
+      "complaints_l3m": 35,
+      "growth": 66.66666666666666,
+      "top_component": "Unknown",
+      "action": "Investigate immediately"
+    }
+  ]
+}

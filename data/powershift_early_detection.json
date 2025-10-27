@@ -1,0 +1,167 @@
+{
+  "early_period_complaints": 1753,
+  "alert_quarter": "2011Q3",
+  "alert_date": "2011-07-01",
+  "months_before_recall": 30,
+  "complaints_prevented": 327,
+  "estimated_savings": 151308000,
+  "quarterly_data": {
+    "2010Q4": 3,
+    "2011Q1": 2,
+    "2011Q2": 7,
+    "2011Q3": 14,
+    "2011Q4": 8,
+    "2012Q1": 8,
+    "2012Q2": 17,
+    "2012Q3": 26,
+    "2012Q4": 26,
+    "2013Q1": 26,
+    "2013Q2": 55,
+    "2013Q3": 78,
+    "2013Q4": 69,
+    "2014Q1": 64,
+    "2014Q2": 146,
+    "2014Q3": 243,
+    "2014Q4": 169,
+    "2015Q1": 149,
+    "2015Q2": 187,
+    "2015Q3": 224,
+    "2015Q4": 232
+  },
+  "growth_rates": [
+    {
+      "quarter": "2011Q1",
+      "complaints": 2,
+      "growth_pct": -33.33333333333333
+    },
+    {
+      "quarter": "2011Q2",
+      "complaints": 7,
+      "growth_pct": 250.0
+    },
+    {
+      "quarter": "2011Q3",
+      "complaints": 14,
+      "growth_pct": 100.0
+    },
+    {
+      "quarter": "2011Q4",
+      "complaints": 8,
+      "growth_pct": -42.857142857142854
+    },
+    {
+      "quarter": "2012Q1",
+      "complaints": 8,
+      "growth_pct": 0.0
+    },
+    {
+      "quarter": "2012Q2",
+      "complaints": 17,
+      "growth_pct": 112.5
+    },
+    {
+      "quarter": "2012Q3",
+      "complaints": 26,
+      "growth_pct": 52.94117647058824
+    },
+    {
+      "quarter": "2012Q4",
+      "complaints": 26,
+      "growth_pct": 0.0
+    },
+    {
+      "quarter": "2013Q1",
+      "complaints": 26,
+      "growth_pct": 0.0
+    },
+    {
+      "quarter": "2013Q2",
+      "complaints": 55,
+      "growth_pct": 111.53846153846155
+    },
+    {
+      "quarter": "2013Q3",
+      "complaints": 78,
+      "growth_pct": 41.81818181818181
+    },
+    {
+      "quarter": "2013Q4",
+      "complaints": 69,
+      "growth_pct": -11.538461538461538
+    },
+    {
+      "quarter": "2014Q1",
+      "complaints": 64,
+      "growth_pct": -7.246376811594203
+    },
+    {
+      "quarter": "2014Q2",
+      "complaints": 146,
+      "growth_pct": 128.125
+    },
+    {
+      "quarter": "2014Q3",
+      "complaints": 243,
+      "growth_pct": 66.43835616438356
+    },
+    {
+      "quarter": "2014Q4",
+      "complaints": 169,
+      "growth_pct": -30.45267489711934
+    },
+    {
+      "quarter": "2015Q1",
+      "complaints": 149,
+      "growth_pct": -11.834319526627219
+    },
+    {
+      "quarter": "2015Q2",
+      "complaints": 187,
+      "growth_pct": 25.503355704697988
+    },
+    {
+      "quarter": "2015Q3",
+      "complaints": 224,
+      "growth_pct": 19.786096256684495
+    },
+    {
+      "quarter": "2015Q4",
+      "complaints": 232,
+      "growth_pct": 3.571428571428571
+    }
+  ],
+  "keyword_analysis": {
+    "shudder": 715,
+    "hesitation": 504,
+    "slipping": 265,
+    "jerking": 604,
+    "clutch": 936
+  },
+  "yearly_growth": [
+    {
+      "year": 2011,
+      "complaints": 31,
+      "growth": 933.3333333333334
+    },
+    {
+      "year": 2012,
+      "complaints": 77,
+      "growth": 148.38709677419354
+    },
+    {
+      "year": 2013,
+      "complaints": 228,
+      "growth": 196.10389610389612
+    },
+    {
+      "year": 2014,
+      "complaints": 622,
+      "growth": 172.80701754385964
+    },
+    {
+      "year": 2015,
+      "complaints": 792,
+      "growth": 27.331189710610932
+    }
+  ]
+}

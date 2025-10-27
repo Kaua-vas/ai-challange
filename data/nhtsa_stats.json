@@ -1,0 +1,20 @@
+{
+  "total_complaints": 71168,
+  "date_range": {
+    "start": "2010-08-04 00:00:00",
+    "end": "2025-10-23 00:00:00"
+  },
+  "models": {
+    "ESCAPE": 14778,
+    "EXPLORER": 13536,
+    "FUSION": 13169,
+    "FOCUS": 12354,
+    "EDGE": 9936,
+    "FIESTA": 3091,
+    "MUSTANG": 3078,
+    "BRONCO": 667,
+    "RANGER": 559
+  },
+  "powershift_total": 15445,
+  "powershift_transmission": 7531
+}
