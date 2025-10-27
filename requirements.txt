@@ -1,8 +1,5 @@
 streamlit
 pandas
 plotly
-sentence-transformers
 scikit-learn
 numpy
-transformers
-torch
